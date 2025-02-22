@@ -2,7 +2,7 @@
 - 👀 I’m interested in creating appealing and useful web apps
 - 🌱 I’m currently learning JavaScript and other frontend stuff
 - 📫 How to reach me https://asadullohs.vercel.app/
-- 😄 Pronouns: Asadulloh
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: Nothing speacial for now 
 
 <!---
